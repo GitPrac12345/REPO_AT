@@ -8,7 +8,16 @@ public class TC_002_LoginTest {
 		System.out.println("UserName");
 		System.out.println("Password");
 		System.out.println("Login");
-
+		
+		
+		
+		//Updated Login
+		
+		
+		System.out.println("UserName1");
+		System.out.println("Password1");
+		System.out.println("Login1");
+		
 
 		
 		
