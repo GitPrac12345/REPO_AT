@@ -34,7 +34,14 @@ public class TC_002_LoginTest {
 						System.out.println("Password3");
 						System.out.println("Login3");
 				
+	
+	//Updated Login4 New
 				
+				
+	System.out.println("UserName4");
+	System.out.println("Password4");
+	System.out.println("Login4");
+							
 		
 		
 		
