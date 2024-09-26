@@ -26,9 +26,10 @@ public class TC_002_LoginTest {
 		System.out.println("Password3");
 		System.out.println("Login3");
 		// Updated Login
-
+void updatedLogin(){
 		-----updated Login
-
+		System.out.println("updated Login");
+	}
 	}
 
 }
